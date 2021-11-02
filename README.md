@@ -1,4 +1,4 @@
-# oblig-2
+# oblig-3
 
 ## Har gjordt 
 Jeg har leget en action får at tester skal kjøre etter hver "comit" til github. 

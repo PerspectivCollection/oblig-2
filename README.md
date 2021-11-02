@@ -1,6 +1,6 @@
 # oblig-2
 
-##Har gjordt: 
+## Har gjordt: 
 
 Jeg har leget en action får at tester skal kjøre etter hver "comit" til github. 
 Acton som har blit brukt er fra "Python package" under action. 
